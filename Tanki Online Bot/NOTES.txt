@@ -1,0 +1,71 @@
+
+Enable "DiscordBotsOrgAPI" after finish.
+Add "redcoins" to database
+
+ToDo:
+Add Red Crystals
+Add clans
+Add Clan License feature
+Clan Profile ">clan [name] or [tag]
+Clan License can only be purchased using Red Crystals
+
+New Commands:
+>clan profile [name] | Will display a clan profile (DONE)
+>clan create | Will make a clan. Must have "Clan License" If he doesn, bot warns him that he needs to buy one (DONE)
+>clan delete | Will delete the clan (DONE)
+>clan add [member] | Invite a member to your clan (DONE)
+>clan kick [member] | Kick a member from your clan (DONE)
+>clan promote [rank] [member] | Promote a clan member
+>clan description | Will set a short description for the clan. (DONE)
+>clan rename | The bot will ask you if you want to change Clan Tag or Clan Name (DONE)
+>clan license | Purchase a Clan License with Red Crystals (DONE)
+>clan upgrade | Will be able to increase member slots from 5 or 10 with Red Crystals (DONE)
+>clan members | Will display Clan Members in order (DONE)
+>clan leave | Member leaves clan. (DONE)
+
+Update commands:
+>daily | Will give you a random amount of Red Crystals
+>rewards | Will give you a random amount of Red Crystals
+>profile | Will display Clan Tag next to nickname (DONE)
+>profile | Remove double names. Keep 1. (DONE)
+
+Notes:
+Clan profile
+	Will display full clan name and tag. (DONE)
+	Owner nickname (DONE)
+	Number of Members in the clan Eg. 3/5 Members (DONE)
+	Will display total Crystals of all clan members together (DONE)
+	Will also display Battles won/lost of all members together (DONE)
+	Will display total Red Crystals of all members together (DONE
+	Creation date. DONE
+Clan Members command
+	Will display all members (DONE)
+	Will also display their stats. Battles | Crystals | Red Crystal's  etc (DONE)
+Clan Ranks
+	Owner (DONE)
+	Officer (DONE)
+	Member (DONE)
+Warn clan owner when promoting someone that he will have some extra permissions. Invite/Kick Members | Change clan Descrption (DONE)																																										
+	
+
+Possible features:
+Clan owners will be able to change Clan embed color with Red Crystals
+Can purchase more than 10 slots for real money like 1$ per slot up to 20 slots max.
+
+
+
+create - 
+profile -
+members -
+upgrade -
+leave -
+demote -
+promote -
+kick -
+invite -
+descrption
+rename
+delete
+license - 
+
+

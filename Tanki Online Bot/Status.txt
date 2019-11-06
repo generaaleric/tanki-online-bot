@@ -1,0 +1,5 @@
+Add Clan teable to database
+
+Add redcrystals row to users database
+
+Use asdd command in general cog to set redcrystals to 0 after added to database 
